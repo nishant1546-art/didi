@@ -11,7 +11,7 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you get what  like. ✨ ", 
+        text: "Wishing you get what you like. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
